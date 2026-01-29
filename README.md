@@ -19,7 +19,7 @@ A visual, interactive educational tool built with React and Material UI that dem
 
 -   **Frontend**: React, Vite
 -   **UI Library**: Material UI (MUI), Bootstrap
--   **Language**: JavaScript (formerly TypeScript)
+-   **Language**: JavaScript React
 -   **Analysis**: Custom algorithms for `Alloc` and `Defrag` logic.
 
 ## 🏃‍♂️ How to Run
