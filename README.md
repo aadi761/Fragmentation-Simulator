@@ -52,3 +52,6 @@ A visual, interactive educational tool built with React and Material UI that dem
   Screenshots :
 
   ![me](Fragmentation-Simulator/123.png)
+  ![me](Fragmentation-Simulator/4.png)
+  ![me](Fragmentation-Simulator/234.png)
+
