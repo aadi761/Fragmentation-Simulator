@@ -53,7 +53,7 @@ A visual, interactive educational tool built with React and Material UI that dem
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/9bab56f3-6973-4ca1-add1-4ff1c6186b22" />
 
   ![me](https://github.com/aadi761/Fragmentation-Simulator/blob/main/234.png?raw=true)
-  ![me](<img width="1346" height="873" alt="image" src="https://github.com/user-attachments/assets/16b69522-116b-4c65-800d-827977d0b8b1" />
+  ![me](https://github.com/aadi761/Fragmentation-Simulator/blob/main/Screenshot%202026-01-30%20083108.png?raw=true)
 
  
 
