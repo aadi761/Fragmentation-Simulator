@@ -49,5 +49,6 @@ A visual, interactive educational tool built with React and Material UI that dem
 -   **Defragmentation**: Compaction and consolidation.
 -   **File Systems**: How OSs manage free space.
 
----
-*Created for Full Stack Experiment 2*
+  Screenshots :
+
+  ![me](Fragment-Simulator/Screenshot 2026-01-30 083108.png)
